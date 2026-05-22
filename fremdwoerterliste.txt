@@ -1027,6 +1027,8 @@ Falsum
 Famulatur
 Fanal
 Fanatismus
+Fantasie
+fantasieren
 Fantastik
 Farnochinon
 Faschismus
@@ -2011,10 +2013,7 @@ Levisticum
 Levitation
 Lexik
 Lexikon
-lgismus
-lgizismus
 Liaison
-Libanon
 Libation
 liberal
 Liberalismus
@@ -2023,17 +2022,19 @@ Libertarismus
 Libertinismus
 Lichenifikation
 Lichtgranulation
-Liebesqual
 Ligatur
 Lignum
 limar
-limitational
+Limit
+limitieren
 Limulus
 Lineal
 Lineament
 Linear
 Lineatur
 lingual
+Linie
+liniert
 linksrum
 Linum
 Liposuktion
@@ -2077,7 +2078,6 @@ Lotion
 loyal
 Loyalität
 Lufthanseat
-Luftikus
 Lugdunum
 lukrativ
 Lukullus
@@ -2104,10 +2104,6 @@ Lyzeum
 Machetik
 Machismus
 macrocarpon
-macrocephalus
-Macron
-macrorhynchus
-Mädchenpensionat
 Madrigal
 Magedon
 Magnesium
@@ -2720,6 +2716,7 @@ Pemphigus
 Pennal
 Pennsylvanium
 Pension
+Pensionat
 pensioniert
 Pensionist
 Pensum
@@ -2747,6 +2744,7 @@ peridural
 Perigon
 Perigonium
 perineal
+Periode
 Periodikum
 perioral
 peripar
@@ -2779,10 +2777,6 @@ Perzeption
 Pessar
 Pessimismus
 Petition
-Petrus
-Pflaumenmus
-pfupfikon
-Phaestus
 Phage
 Phagocytose
 Phagosom
